@@ -12,6 +12,11 @@
             --color-teal: #2A4B4C;
             --color-taupe: #8B7D6B;
         }
+<div style="text-align: center; padding: 20px; background-color: #ffeb3b; border: 2px solid #333; position: relative; z-index: 999;">
+    <a href="https://chyshenn.github.io/" style="color: black; font-size: 20px; font-weight: bold; text-decoration: underline;">
+        👈 點我回到個人履歷頁面
+    </a>
+</div>
 
         body {
             background-color: var(--color-sand);
